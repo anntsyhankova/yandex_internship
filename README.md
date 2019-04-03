@@ -1,1 +1,1 @@
-# yandex_internship
+# ekids
